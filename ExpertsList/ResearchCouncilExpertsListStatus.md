@@ -1,4 +1,4 @@
-This list provides the current status of Research Council Members.
+This list provides the current status of Research Council Members as referenced in [this document](https://www.dropbox.com/scl/fi/ait1l7k56e37ig8733hyg/City-Tech-Experts-DRAFT-Copy-2024-11-21-David-minor-edits.xlsx?rlkey=633ml34ml7asy29az6b6gd9av&dl=0)
 
 ### **Ready for Inclusion**
 - Viviana Acquaviva (Physics)

@@ -1,5 +1,7 @@
 List of faculty and their status on the Expert's List from Communications, Fall 2024
 
+Reference is this document [Draft Experts List](https://www.dropbox.com/scl/fi/ait1l7k56e37ig8733hyg/City-Tech-Experts-DRAFT-Copy-2024-11-21-David-minor-edits.xlsx?rlkey=633ml34ml7asy29az6b6gd9av&dl=0)
+
 ### **Almost Ready for Inclusion**
 - Ashwani Bedi (Architectural Technology)
 - Susan Brandt (Entertainment Technology)

@@ -1,8 +1,12 @@
-# Discover Your Research Path with CHI
+# Research Opportunities Across Every Discipline
 
-The **Center for Holistic Integration (CHI)** invites students from diverse disciplines to engage in interdisciplinary research, creative projects, and innovative problem-solving. We have multiple research opportunities across practically every discipline. Whether you are an engineer, graphic artist, designer, programmer, manager, storyteller, musician, cultural historian, or something else entirely, CHI provides a collaborative environment to explore your passions and expand your expertise. Our projects welcome contributions from a variety of fields, fostering opportunities to merge skills and ideas in innovative and meaningful ways. Participation is open through programs like the **Emerging Scholars Program (ESP)**, independent studies, internships, or culmination projects.
+Are you looking for a research project that matches your skills and passions? **The Center for Holistic Integration (CHI)** invites you join our growing team. At CHI, we foster interdisciplinary collaboration through expansive meta-projects—initiatives designed to support research in any field or type of activity. These meta-projects include investigations into **Balanced Blended Space (BBS)**, encompassing theory, syntax, and practical applications, as well as explorations into shadow puppetry that span world-building, engineering, and artistic expression.
 
-The list below highlights some of the exciting possibilities awaiting you. For a more complete set of project ideas, **[click here or visit this link](https://sites.google.com/view/balancedblendedspace/projects)** to explore the full repository of research topics and opportunities.
+Whether you are an engineer, graphic artist, designer, programmer, manager, storyteller, musician, cultural historian, or something else entirely, CHI offers a collaborative environment to explore your passions and expand your expertise. We welcome contributions from all fields, providing opportunities to merge skills and ideas in innovative and meaningful ways.
+
+Students can engage in CHI projects by extending existing initiatives, launching new investigations within our current framework, or proposing entirely new areas of exploration. Participation is open through programs like the **Emerging Scholars Program (ESP)**, independent studies, internships, or culmination projects.
+
+The list below highlights some of the exciting possibilities awaiting you. For a more complete set of project ideas, **[click here or visit this link](#)** to explore the full repository of research topics and opportunities.
 
 ---
 

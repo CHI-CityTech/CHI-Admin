@@ -1,7 +1,7 @@
 # Journal #5
 
 **Priya Begum**  
-*November 3,2024*
+*November 3, 2024*
 
 ---
 
